@@ -1,0 +1,14 @@
+layout_spectrum: 0.014085324015468359
+typography_spectrum: 0.1739429603330791
+color:
+  brandStrength: 0.05078343371860683
+  lightness: 0.6337892289739102
+  saturation: 0.2307649808935821
+  rhythmicContrast: 0.7531330699566752
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: muted heartbreak
